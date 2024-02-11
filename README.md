@@ -98,8 +98,3 @@ This part explores using the Hough Transform to detect road lanes within an imag
 <p>
     <em>Road with lanes</em>
 </p>
-
-
-## Resources
-
-https://github.com/Youhanna-Yousry/Image-Cartoonifying-and-Lane-Detection
